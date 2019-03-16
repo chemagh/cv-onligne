@@ -1,0 +1,58 @@
+.cover {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYvgUOXQMnch--BrIQ3jIJumq1O-m3fjdzfHdlZYpKVIrwZoNgQ)
+  /* background-image:url(res/lieu-travail-creatif-cahiers-jaunes-reveil_23-2147878303.jpg); */
+  /* width: 100%;
+  height: 300px; */
+  /* background-size: cover; */
+}
+body {
+  background-image:url(https://i.postimg.cc/9XZ3Z5nR/81744.jpg);
+  background-size: 140%;
+  background-repeat: no-repeat
+}
+#couverture {
+  width: 100%;
+  height: 300px;
+}
+.img {
+  margin-top: -90px;
+   /* margin: auto; */
+   display: block;
+   width: 200px;
+   height:200px ;
+   border-radius: 50%;
+}
+.icon {
+  width:50px;
+  height:50px ;
+}
+.i{
+  color: #222;
+    padding: 30px;
+    transition: transform .5s;
+}
+.insta{
+  width:40px;
+  height:40px ;
+}
+.name {
+  font-family: apalu; 
+  font-size:50px
+}
+.work {
+  font-family: apalu;
+  font-size:50px; 
+}
+.Titre {
+  font-family:aharoni;
+  font-size:30px;
+  color: red;
+}
+.para {
+  font-family: apalu;
+  font-size: 40px;
+}
+.colonne {
+  height:300px;
+  padding: 50px;
+}
